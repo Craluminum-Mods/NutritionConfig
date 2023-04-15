@@ -1,0 +1,9 @@
+{
+    "type": "code",
+    "side": "server",
+    "modid": "nutritionconfig",
+    "name": "Nutrition Config",
+    "description": "Allows to configure food nutrition properties",
+    "authors": ["Craluminum2413"],
+    "version": "1.0.0"
+}
